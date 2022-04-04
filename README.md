@@ -1,2 +1,2 @@
 # bren_iic_website_react_app
-web site for us based client 
+web site for US based client 
